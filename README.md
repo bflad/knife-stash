@@ -2,9 +2,15 @@
 
 A knife plugin for Atlassian Stash.
 
+[![Gem Version](https://badge.fury.io/rb/knife-stash.png)](http://badge.fury.io/rb/knife-stash)
+&nbsp;
+[![Code Climate](https://codeclimate.com/github/bflad/knife-stash.png)](https://codeclimate.com/github/bflad/knife-stash)
+
 ## Installation
 
-* Clone repo to ~/.chef/plugins/knife or path/to/cheforg/.chef/plugins/knife
+* `gem install knife-rhn` (if using omnibus install, `/opt/chef/embedded/bin/gem install knife-rhn`)
+* or... copy `lib/chef/knife/*` files to `~/.chef/plugins/knife`
+* or... copy `lib/chef/knife/*` files to `path/to/cheforg/.chef/plugins/knife`
 
 ## Usage
 
